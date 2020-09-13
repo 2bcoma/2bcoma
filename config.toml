@@ -1,15 +1,11 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "2bcoma dev studio"
+title = "2bcoma dev"
 theme = "main"
 copyright = "2bcoma"
 
 [params]
-  avatar = "https://openclipart.org/download/103855/tux.svg"
-  info = """
-  We are passion and progressive indie dev studio.
-  We love to develop multiplatform applications.
-  """
+  avatar = "img/2bcomalogo.png"
 
 [[menu.main]]
   name = "Home"
