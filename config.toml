@@ -15,6 +15,10 @@ copyright = "2bcoma"
   name = "Our Apps"
   url = "/apps"
 
+[[menu.main]]
+  name = "Privacy Policy"
+  url = "/policy"
+
 [[params.social]]
   name = "tiktok"
   url = "https://vm.tiktok.com/ZS5gXNh7/"

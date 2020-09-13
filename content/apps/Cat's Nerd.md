@@ -1,4 +1,5 @@
 ---
+layout: "single"
 title: "Cat's Nerd"
 date: 2020-09-09
 ios: https://apps.apple.com/cz/app/cats-nerd/id1530675174
