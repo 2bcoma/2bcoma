@@ -1,35 +1,36 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Your site title"
+title = "2bcoma dev studio"
 theme = "main"
-copyright = ""
+copyright = "2bcoma"
 
 [params]
   avatar = "https://openclipart.org/download/103855/tux.svg"
-  author = "Your name"
-  info = "Any info about you"
+  info = """
+  We are passion and progressive indie dev studio.
+  We love to develop multiplatform applications.
+  """
 
 [[menu.main]]
-  name = "Github"
-  weight = 1
-  url = "https://github.com/gonnux"
+  name = "Home"
+  url = "/"
 
 [[menu.main]]
-  name = "Apps"
-  weight = 2
+  name = "Our Apps"
   url = "/apps"
 
 [[params.social]]
-  name = "Github"
-  weight = 1
-  url = "https://github.com/gonnux"
+  name = "tiktok"
+  url = "https://vm.tiktok.com/ZS5gXNh7/"
 
 [[params.social]]
-  name = "Gitlab"
-  weight = 2
-  url = "https://gitlab.com/gonnux"
+  name = "instagram"
+  url = "https://instagram.com/2bcoma?igshid=mm9sg7ctjx0m"
 
 [[params.social]]
-  name = "Website"
-  weight = 3
-  url = "https://gonnux.com"
+  name = "github"
+  url = "https://github.com/2bcoma"
+
+[[params.social]]
+  name = "email"
+  url = "mailto:bbcoma@mail.com"
