@@ -2,7 +2,7 @@
 layout: "single"
 title: "Cat's Nerd"
 date: 2020-09-09
-ios: https://apps.apple.com/cz/app/cats-nerd/id1530675174
+ios: https://apps.apple.com/us/app/id1530675174
 android: https://play.google.com/store/apps/details?id=com.bbcoma.catsnerd
 img: "/img/catsnerd.png"
 ---
