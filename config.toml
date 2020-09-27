@@ -34,3 +34,7 @@ copyright = "2bcoma"
 [[params.social]]
   name = "email"
   url = "mailto:bbcoma@mail.com"
+
+[[params.social]]
+  name = "support"
+  url = "https://www.buymeacoffee.com/2bcoma"
