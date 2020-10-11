@@ -1,6 +1,7 @@
 [submodule "themes/main"]
 	path = themes/main
 	url = https://github.com/2bcoma/hugo-theme
+	branch = master
 [submodule "public"]
 	path = public
 	url = https://github.com/2bcoma/2bcoma.github.io.git
