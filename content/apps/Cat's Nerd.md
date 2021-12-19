@@ -1,11 +1,11 @@
 ---
-layout: "single"
+layout: 'single'
 title: "Cat's Nerd"
 date: 2020-09-09
 ios: https://apps.apple.com/us/app/id1530675174
 android: https://play.google.com/store/apps/details?id=com.bbcoma.catsnerd
 html5: https://2bcoma.github.io/cats_nerd.github.io/
-img: "/img/catsnerd.png"
+img: '/img/catsnerd.png'
 ---
 
 ###### Are you Cat's Nerd 🤓? Then try differ cute cats 🐈 girls from boys?
