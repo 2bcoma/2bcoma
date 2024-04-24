@@ -20,10 +20,6 @@ copyright = "2bcoma"
   url = "/policy"
 
 [[params.social]]
-  name = "tiktok"
-  url = "https://vm.tiktok.com/ZS5gXNh7/"
-
-[[params.social]]
   name = "instagram"
   url = "https://instagram.com/2bcoma?igshid=mm9sg7ctjx0m"
 
@@ -33,8 +29,4 @@ copyright = "2bcoma"
 
 [[params.social]]
   name = "email"
-  url = "mailto:bbcoma@mail.com"
-
-[[params.social]]
-  name = "support"
-  url = "https://www.buymeacoffee.com/2bcoma"
+  url = "mailto:2bcomacat@mail.com"

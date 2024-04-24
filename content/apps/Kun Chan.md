@@ -2,7 +2,6 @@
 layout: 'single'
 title: 'Kun Chan'
 date: 2020-09-26
-android: https://play.google.com/store/apps/details?id=com.bbcoma.kunchan
 html5: https://2bcoma.github.io/kun_chan.github.io/
 img: '/img/kunchan.png'
 ---
